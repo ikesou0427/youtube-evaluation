@@ -1,0 +1,19 @@
+{
+  "name": "check_evaluation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.14.14",
+    "@types/puppeteer": "^5.4.2",
+    "delay": "^4.4.0",
+    "fs": "0.0.1-security",
+    "puppeteer": "^5.5.0"
+  }
+}
